@@ -1,8 +1,4 @@
-print("helloooooo")
-print("helloooooo")
-print("helloooooo")
-print("hhhhhhelloooooo")
-print("helloooooo")
-print("helloooooo")
-print("helloooooo")
-print("helloooooo")
+
+name = input("What is your name? ")
+
+print("Hello " + name)
